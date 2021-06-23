@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on various ML/DL competitions
 - 🌱 I’m currently learning Deep Learning for Earth Obervation and Medical applications
